@@ -1,5 +1,7 @@
 ```console
 $ make
-$ ./01-hello-world
-hello world
+cargo build
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+$ ./main
+Hello, world!
 ```
